@@ -1,3 +1,10 @@
+# Sliding Puzzle
+
+The sliding puzzle is a well-known puzzle game. Many of us, already played this game in our childhood. The main purpose of the game is to slide blocks of an image to match a complete picuture.
+
+# Live At
+http://dochyper.unitec.ac.nz/UnitecAnimalUnit/slidingpuzzle/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
